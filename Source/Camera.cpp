@@ -1,6 +1,8 @@
 #include <imgui.h>
 #include "Camera.h"
 
+int a;
+
 //Žw’è•ûŒü‚ðŒü‚­
 void Camera::SetLookAt(const DirectX::XMFLOAT3& eye, const DirectX::XMFLOAT3& focus, const
     DirectX::XMFLOAT3& up)
