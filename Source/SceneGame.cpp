@@ -4,8 +4,6 @@
 #include "EnemyManager.h"
 #include "EnemySlime.h"
 
-//aaaaaaaaaaaaaaa
-
 // ‰Šú‰»
 void SceneGame::Initialize()
 {
